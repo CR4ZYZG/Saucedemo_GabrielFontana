@@ -1,0 +1,29 @@
+{
+  "name": "gabriel_fontana",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy.open": "cypress open",
+    "cy.run": "cypress run",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CR4ZYZG/Gabriel_Fontana.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CR4ZYZG/Gabriel_Fontana/issues"
+  },
+  "homepage": "https://github.com/CR4ZYZG/Gabriel_Fontana#readme",
+  "dependencies": {
+    "node": "^17.0.1"
+  },
+  "devDependencies": {
+    "cypress": "^8.7.0",
+    "faker": "^5.5.3"
+  }
+}
